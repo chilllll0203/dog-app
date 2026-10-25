@@ -1,0 +1,9 @@
+.card img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+h2{
+    color: #2b2b2b;
+}
